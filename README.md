@@ -15,6 +15,10 @@
   * **Multivariate calculus (Imperial college London, Coursera)**: *Basics*
 <br>
 
+## Practice
+  * **Tinkoff Data Science Challenge**
+  * **OTP bank DS challenge**
+
 ## Books
   * Head First Python (O'reilly)
   * Introducing Python (O'Reilly)
