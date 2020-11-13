@@ -13,14 +13,13 @@
   * **Probability theory (Tomsk SU, Stepik)**: *Basics*
   * **Linear Algebra (Imperial college London, Coursera)**: *Basics*
   * **Multivariate calculus (Imperial college London, Coursera)**: *Basics*
-<br>
 
 ## Practice
   * **Tinkoff Data Science Challenge**
   * **OTP bank DS challenge**
 
 ## Books
-  * Head First Python (O'reilly)
+  * Head First Python (O'Reilly)
   * Introducing Python (O'Reilly)
   * Python Data Science Handbook (O'Reilly)
   * Introduction to Machine Learning with Python (O'Reilly)
