@@ -1,0 +1,9 @@
+The worst nightmare for any developer is to 
+contact customer support for an internet problem. 
+The customer service agents sometimes (I’m being polite, 
+read ALWAYS) fail to understand that restarting computers
+does not always work. Well, we’re developers and understand 
+how these things work, so a lot of the time we know how to 
+fix the problem, provided you connect us to a fellow developer.
+SHIBBOLEET: I’m going to try it the next time I call any
+ customer support service. I wish, someday, it comes true.
