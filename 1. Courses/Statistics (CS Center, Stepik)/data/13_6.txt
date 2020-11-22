@@ -1,0 +1,45 @@
+shopping	1990, July	4942	4882	Epsom
+shopping	1991, September	4895	4736	Epsom
+shopping	1991, December	4805	4784	Epsom
+shopping	1992, March	4570	4603	Epsom
+shopping	1992, November	4506	4629	Epsom
+shopping	1990, July	6754	6998	Guildford
+shopping	1991, September	6704	6707	Guildford
+shopping	1991, December	5871	5662	Guildford
+shopping	1992, March	6026	6162	Guildford
+shopping	1992, November	5676	5665	Guildford
+shopping	1990, July	3685	3848	Dorking
+shopping	1991, September	3799	3680	Dorking
+shopping	1991, December	3563	3554	Dorking
+shopping	1992, March	3673	3676	Dorking
+shopping	1992, November	3558	3613	Dorking
+shopping	1990, July	5751	5993	Chichester
+shopping	1991, September	5367	5320	Chichester
+shopping	1991, December	4949	4960	Chichester
+shopping	1992, March	5298	5467	Chichester
+shopping	1992, November	5199	5092	Chichester
+shopping	1990, July	4141	4389	Horsham
+shopping	1991, September	3674	3660	Horsham
+shopping	1991, December	3707	3822	Horsham
+shopping	1992, March	3633	3730	Horsham
+shopping	1992, November	3688	3615	Horsham
+shopping	1990, July	4266	4532	East Grinstead
+shopping	1991, September	3954	3964	East Grinstead
+shopping	1991, December	4028	3926	East Grinstead
+shopping	1992, March	3689	3692	East Grinstead
+shopping	1992, November	3920	3853	East Grinstead
+shopping	1990, July	7138	6836	Lewisham
+shopping	1991, September	6568	6363	Lewisham
+shopping	1991, December	6514	6555	Lewisham
+shopping	1992, March	6115	6412	Lewisham
+shopping	1992, November	5325	6099	Lewisham
+shopping	1990, July	6502	6648	Nine Elms
+shopping	1991, September	6416	6398	Nine Elms
+shopping	1991, December	6422	6503	Nine Elms
+shopping	1992, March	6748	6716	Nine Elms
+shopping	1992, November	7023	7057	Nine Elms
+shopping	1990, July	4083	4277	Crystal Palace
+shopping	1991, September	4107	4334	Crystal Palace
+shopping	1991, December	4168	4050	Crystal Palace
+shopping	1992, March	4174	4198	Crystal Palace
+shopping	1992, November	4079	4105	Crystal Palace
