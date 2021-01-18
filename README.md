@@ -8,6 +8,7 @@
   * **Python 3 programming specialization (Coursera)**: *Python Basics, Functions, Data Structures, OOP, Data collection and processing, OpenCV*
   * **SQL for data science (IBM)**: *Basic SQL, Sorting, Grouping, Functions, Sub-Queries, Multiple Tables*
   * **SQL Basic + Advanced (Kaggle)**: *Select, Group By, Order By, Joins/Unions, Analytic Functions, Nested data, Optimization*
+  * **Version Control with Git**: *Git, GitHub basics*
   ### Fundamentals  
   * **Statistics (CS Center, Stepik)**: *Basics, point estimates, confidence intervals, statistical hypothesis, regression analysis*
   * **Basic Statistics (Bioinformatics institute (Karpov), Stepik)**: *Stats basics, distributions, hypothesis test, correlation and regression*
