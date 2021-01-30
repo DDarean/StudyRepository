@@ -2,13 +2,14 @@
   ### Machine Learning / Deep Learning
   * **Open Machine Learning Course (mlcouse.ai)**: *EDA, Visualisation, Linear & Logistic Regression, Decision Trees, Ensembles, Gradient Bossting, Time Series, Feature Engineering*  
   * **Machine Learning and Data Analysis Specialization (MIPT, Yandex)**: *Python for data analysis, supervised learning, unsupervised learning, stats for data analysis, data analysis applications*  
+  * **Machine Learning. RS-school**: *Data manipulations, regression, classification, overfitting, regularization, trees/ensembles, clustering*  
   * **Deep Learning School                (MIPT)**: *ML Basics, NN Basics, CNN, PyTorch, CV, Segmentation, GANs*
   ### Python & SQL
   * **Algorithms and data structures (Sedgewick)**: *Data structures, sorting, and searching algorithms*
   * **Python 3 programming specialization (Coursera)**: *Python Basics, Functions, Data Structures, OOP, Data collection and processing, OpenCV*
   * **SQL for data science (IBM)**: *Basic SQL, Sorting, Grouping, Functions, Sub-Queries, Multiple Tables*
   * **SQL Basic + Advanced (Kaggle)**: *Select, Group By, Order By, Joins/Unions, Analytic Functions, Nested data, Optimization*
-  * **Version Control with Git**: *Git, GitHub basics*
+  * **Version Control with Git (Udacity)**: *Git, GitHub basics*
   ### Fundamentals  
   * **Statistics (CS Center, Stepik)**: *Basics, point estimates, confidence intervals, statistical hypothesis, regression analysis*
   * **Basic Statistics (Bioinformatics institute (Karpov), Stepik)**: *Stats basics, distributions, hypothesis test, correlation and regression*
