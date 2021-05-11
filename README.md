@@ -11,6 +11,8 @@
   * **SQL Basic + Advanced (Kaggle)**: *Select, Group By, Order By, Joins/Unions, Analytic Functions, Nested data, Optimization*
   * **Version Control with Git (Udacity)**: *Git, GitHub basics*
   ### Fundamentals  
+  * **Statistics (Tinkoff.Fintech)**: *Basics, hypothesis test, AB-test, visualisation, regression, timeseries*
+  * **Basic Statistics (Coursera, University of Amsterdam)**
   * **Statistics (CS Center, Stepik)**: *Basics, point estimates, confidence intervals, statistical hypothesis, regression analysis*
   * **Basic Statistics (Bioinformatics institute (Karpov), Stepik)**: *Stats basics, distributions, hypothesis test, correlation and regression*
   * **Probability theory (Tomsk SU, Stepik)**: *Basics*
