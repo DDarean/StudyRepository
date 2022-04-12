@@ -7,7 +7,7 @@
   * **Machine Learning and Data Analysis Specialization (MIPT, Yandex)**: *Python for data analysis, supervised learning, unsupervised learning, stats for data analysis, data analysis applications*  
   * **Machine Learning. RS-school**: *Data manipulations, regression, classification, overfitting, regularization, trees/ensembles, clustering*  
   ### Software Engineering
-  * **EPAM Python Lab**: *Data Structures and Functions, Object Oriented Programming, Functional programming, Tests with PyTest,  Generators / Iterators, Parallelization, Databases*
+  * **EPAM Python Lab**: *Data Structures and Functions, Object Oriented Programming, Functional programming, Tests with PyTest,  Generators / Iterators, Parallelization, Databases* - [repository](https://github.com/DDarean/hw2021)
   * **DevOps specialization (Coursera)**: *DevOps basics, Docker, Kubernetes, Cloud Computing, Microservices, CI/CD, Linux, Git*
   * **MLOps specialization (Coursera)**: *Data lifecycle, Modelling Pipelines, ML models deployment*
   * **Algorithms and data structures (Sedgewick)**: *Data structures, sorting, and searching algorithms*
@@ -26,6 +26,7 @@
   * **Multivariate calculus (Imperial college London, Coursera)**: *Basics*
 
 ## Practice
+  * **PyTorch. Images classification (pneumonia classification)**
   * **Tinkoff Data Science Challenge**
   * **OTP bank DS challenge**
 
