@@ -3,7 +3,7 @@
   * **Deep Learning School                (MIPT)**: *ML Basics, NN Basics, CNN, PyTorch, CV, Segmentation, GANs*
   * **DeepLearning.ai Specialization (Coursera)**: *DL Basics, NN tuning and optimization, Structuring ML/DL projects, CNN, Sequence Models*
   * **Deep Learning with PyTorch (IBM)**: *Key DL concepts implementation with PyTorch*
-  * **Open Machine Learning Course (mlcouse.ai)**: *EDA, Visualisation, Linear & Logistic Regression, Decision Trees, Ensembles, Gradient Bossting, Time Series, Feature Engineering*  
+  * **Open Machine Learning Course (mlcourse.ai)**: *EDA, Visualisation, Linear & Logistic Regression, Decision Trees, Ensembles, Gradient Bossting, Time Series, Feature Engineering*  
   * **Machine Learning and Data Analysis Specialization (MIPT, Yandex)**: *Python for data analysis, supervised learning, unsupervised learning, stats for data analysis, data analysis applications*  
   * **Machine Learning. RS-school**: *Data manipulations, regression, classification, overfitting, regularization, trees/ensembles, clustering*  
   ### Software Engineering
@@ -27,6 +27,7 @@
 
 ## Practice
   * **PyTorch. Images classification (pneumonia classification)**
+  * **OpenCV. Recognizing shapes on images**
   * **Tinkoff Data Science Challenge**
   * **OTP bank DS challenge**
 
