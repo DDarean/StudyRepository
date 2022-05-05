@@ -2,7 +2,7 @@
   ### Machine Learning / Deep Learning
   * **Deep Learning School                (MIPT)**: *ML Basics, NN Basics, CNN, PyTorch, CV, Segmentation, GANs*
   * **DeepLearning.ai Specialization (Coursera)**: *DL Basics, NN tuning and optimization, Structuring ML/DL projects, CNN, Sequence Models*
-  * **DeepLearning.ai NLP specialization (Coursera)**: *Sequence models (RNN, GRU, LSTM, Siamese networks)*
+  * **DeepLearning.ai NLP specialization (Coursera)**: *Sequence models (RNN, GRU, LSTM, Siamese networks, Attention models)*
   * **Deep Learning with PyTorch (IBM)**: *Key DL concepts implementation with PyTorch*
   * **Open Machine Learning Course (mlcourse.ai)**: *EDA, Visualisation, Linear & Logistic Regression, Decision Trees, Ensembles, Gradient Bossting, Time Series, Feature Engineering*  
   * **Machine Learning and Data Analysis Specialization (MIPT, Yandex)**: *Python for data analysis, supervised learning, unsupervised learning, stats for data analysis, data analysis applications*  
