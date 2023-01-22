@@ -1,0 +1,27 @@
+-- 3
+select count(1) from green_taxi_trips
+where lpep_pickup_datetime between '2019-01-15 00:00:00' and '2019-01-15 23:59:59'
+and lpep_dropoff_datetime between '2019-01-15 00:00:00' and '2019-01-15 23:59:59'
+
+
+-- 4
+select lpep_pickup_datetime from green_taxi_trips
+where trip_distance = (select max(trip_distance) from green_taxi_trips)
+
+
+-- 5
+select count(1) from green_taxi_trips
+where lpep_pickup_datetime between '2019-01-01 00:00:00' and '2019-01-01 23:59:59'
+--and passenger_count = 2
+and passenger_count = 3
+
+
+--6
+select * from green_taxi_trips ta
+join taxi_zones z on ta."PULocationID" = z."LocationID"
+join taxi_zones doz on ta."DOLocationID" = doz."LocationID"
+where z."Zone" = 'Astoria' and tip_amount = (
+select max(tip_amount) from green_taxi_trips ta
+join taxi_zones z on ta."PULocationID" = z."LocationID"
+join taxi_zones doz on ta."DOLocationID" = doz."LocationID"
+where z."Zone" = 'Astoria')
