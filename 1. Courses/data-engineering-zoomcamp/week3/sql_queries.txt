@@ -1,0 +1,22 @@
+--SELECT count(1)  FROM `de-zoomcamp-375808.task_3_data.taxi_ttt`
+
+--CREATE OR REPLACE TABLE task_3_data.taxi_bq as
+--select * from task_3_data.taxi_ttt
+
+--select count(1), count(1) from `task_3_data.taxi_bq`
+--where PUlocationID is NULL or DOlocationID is NULL
+
+--select count(1) from `task_3_data.taxi_bq`
+--where DOlocationID is NULL and PUlocationID is NULL
+
+
+--CREATE OR REPLACE TABLE task_3_data.taxi_bq_partitioned
+--PARTITION BY DATE(pickup_datetime)
+--CLUSTER BY affiliated_base_number  as
+--select * from task_3_data.taxi_ttt
+
+--select distinct affiliated_base_number from `task_3_data.taxi_bq`
+--where pickup_datetime between '2019-03-01' and '2019-03-31'
+
+--select distinct affiliated_base_number from `task_3_data.taxi_bq_partitioned`
+--where pickup_datetime between '2019-03-01' and '2019-03-31'
