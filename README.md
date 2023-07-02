@@ -1,4 +1,7 @@
 ## Courses
+  ### MLOps and Data Engineering
+  * **Data Engineering Zoomcamp**: *Deploy with docker / docker compose, orchestration (AirFlow, Prefect), Google BigQuery + ML in BQ, dbt, batch processing (PySpark), stream processing (Kafka)*
+  * **MLOps specialization (Coursera)**: *Data lifecycle, Modelling Pipelines, ML models deployment*
   ### Machine Learning / Deep Learning
   * **Deep Learning School                (MIPT)**: *ML Basics, NN Basics, CNN, PyTorch, CV, Segmentation, GANs*
   * **DeepLearning.ai Specialization (Coursera)**: *DL Basics, NN tuning and optimization, Structuring ML/DL projects, CNN, Sequence Models*
@@ -9,8 +12,7 @@
   * **Machine Learning. RS-school**: *Data manipulations, regression, classification, overfitting, regularization, trees/ensembles, clustering*  
   ### Software Engineering
   * **EPAM Python Lab**: *Data Structures and Functions, Object Oriented Programming, Functional programming, Tests with PyTest,  Generators / Iterators, Parallelization, Databases* - [repository](https://github.com/DDarean/hw2021)
-  * **DevOps specialization (Coursera)**: *DevOps basics, Docker, Kubernetes, Cloud Computing, Microservices, CI/CD, Linux, Git*
-  * **MLOps specialization (Coursera)**: *Data lifecycle, Modelling Pipelines, ML models deployment*
+  * **DevOps specialization (Coursera)**: *DevOps basics, Docker, Kubernetes, Cloud Computing, Microservices, CI/CD, Linux, Git*  
   * **Algorithms and data structures (Sedgewick)**: *Data structures, sorting, and searching algorithms*
   * **Python 3 programming specialization (Coursera)**: *Python Basics, Functions, Data Structures, OOP, Data collection and processing, OpenCV*
   * **SQL for data science (IBM)**: *Basic SQL, Sorting, Grouping, Functions, Sub-Queries, Multiple Tables*
